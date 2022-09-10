@@ -1,0 +1,3 @@
+ali@gmail.com;12345;Ali Ahmad;2020-02-29
+tim@gmail.com;5678;asil;2022-03-22
+akki@gmail.com;123456;ahmed;2022-05-22
